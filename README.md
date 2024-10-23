@@ -1,6 +1,6 @@
 # Devops_17
 
-## $${\color{purpel}\textbf{GIT}}$$
+## $${\color{blue}\textbf{GIT}}$$
 
 
 
