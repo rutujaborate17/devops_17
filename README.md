@@ -37,3 +37,25 @@ sudo apt update && sudo apt install terraform``
 
 ### Check terraform version
 ``terraform --version``
+
+### To create user
+``aws configure --rutuja``
+
+### To read creadentials
+``cd``
+``ls-a``
+``cd.aws``
+``cat creadentials``
+
+
+
+
+
+
+
+
+
+
+
+
+
