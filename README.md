@@ -1,6 +1,6 @@
 # Devops_17
 
-## Terraform
+## $${\color{red}\textbf{Terraform}}$$
 
 ### AWS CLI Installation
 ``sudo apt install unzip -y
