@@ -43,8 +43,11 @@ sudo apt update && sudo apt install terraform``
 
 ### To read creadentials
 ``cd``
+
 ``ls-a``
+
 ``cd.aws``
+
 ``cat creadentials``
 
 
