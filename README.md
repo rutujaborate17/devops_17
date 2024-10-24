@@ -15,24 +15,24 @@ sudo ./aws/install
 `````aws --version
 
 ### Terraform Installation Ubuntu
-````wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
+`````wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
 sudo apt update && sudo apt install terraform
 
 ### Check terraform version
-````terraform --version
+`````terraform --version
 
 ### To create user
-````aws configure --rutuja
+`````aws configure --rutuja
 
 ### To read creadentials
-````cd
+`````cd
 
-````ls-a
+`````ls-a
 
-````cd.aws
+`````cd.aws
 
-````cat creadentials````
+`````cat creadentials
 
 
 
