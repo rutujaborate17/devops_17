@@ -47,4 +47,18 @@ cd.aws
 cat creadentials
 ````
 
-_ T
+
+
+-t
+
+
+
+
+
+
+
+
+
+
+
+
