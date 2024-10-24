@@ -1,7 +1,8 @@
 # Devops_17
 
 ## $${\color{blue}\textbf{GIT}}$$
-
+-Thdvb
+-
 
 ## $${\color{red}\textbf{Terraform}}$$
 
@@ -49,7 +50,8 @@ cat creadentials
 
 
 
--t
+-Thb
+-
 
 
 
