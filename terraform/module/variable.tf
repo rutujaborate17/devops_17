@@ -1,44 +1,40 @@
+
 variable "vpc_cidr_block" {
-  type = string
-  description = "Use this VPC CIDR block"
+    type =string
+  
 }
 
 variable "subnet_cidr_block" {
-  type = string
-  description = "Subnet CIDR block for public subnet"
-}
-
-variable "public_ip" {
-    type = bool
-    description = "Assign Public ip"
+    type = string
+  
 }
 
 variable "az" {
-  type = list(string)
-  description = "Availability zones"
+    type = list(string)
+  
 }
+
+
 
 variable "port_no" {
-  type = list(number)
-  description = "List of ports for security group"
+    type = list(number)
+  
 }
 
-variable "ami_id" {
-  type = string
-  description = "AMI ID for the EC2 instance"
+
+variable "ami" {
+    type = string
+  
 }
 
 variable "instance_type" {
-  type = string
-  description = "Instance type for the EC2 instance"
+    type = string
+  
 }
+
+
 
 variable "key" {
-  type = string
-  description = "Key pair for SSH access"
-}
-
-variable "tags" {
-  type = map(string)
-  description = "Tags to be applied to all resources"
+    type = string
+  
 }
