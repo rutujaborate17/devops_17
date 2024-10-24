@@ -14,6 +14,7 @@ sudo ./aws/install
 
 
 ### Check AWS version
+
 ````
 aws --version
 
@@ -25,16 +26,22 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 sudo apt update && sudo apt install terraform
 
 ### Check terraform version
+````
 terraform --version
 
 ### To create user
-aws configure --rutuja
+
+````aws configure --rutuja
 
 ### To read creadentials
-cd
 
+````
+cd
+````
 ls-a
 
-````cd.aws
+````
+cd.aws
 
-````cat creadentials
+````
+cat creadentials
