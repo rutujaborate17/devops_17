@@ -12,7 +12,7 @@ unzip awscliv2.zip
 sudo ./aws/install
 
 ### Check AWS version
-aws --version
+````aws --version
 
 ### Terraform Installation Ubuntu
 wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
