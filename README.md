@@ -34,7 +34,7 @@ ls-a
 
 cd.aws
 
-cat creadentials
+````cat creadentials
 
 
 
