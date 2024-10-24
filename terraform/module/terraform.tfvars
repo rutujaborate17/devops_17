@@ -1,14 +1,7 @@
-vpc_cidr_block = "192.168.0.0/16"
-subnet_cidr_block = "192.168.0.0/22"
-az = ["ap-southeast-1a", "ap-southeast-1b", "ap-southeast-1c"]
-port_no = [0, 22, 80, 443, 8080]
-ami_id = "ami-04b6019d38ea93034"
-instance_type = "t2.micro"
-key = "keypair-se1"
-public_ip = true
-
-tags = {
-  Environment = "Production"
-  Project     = "Inbestment.com"
-  Owner       = "Abhipray"
-}
+vpc_cidr_block ="192.168.0.0/16"
+subnet_cidr_block ="192.168.0.0/21"
+port_no =[0,22,80,443,3306]
+ami ="ami-06b21ccaeff8cd686"
+instance_type ="t2.micro"
+az =["us-east1a","us-east-1b","us-east-1c"]
+key ="u"
