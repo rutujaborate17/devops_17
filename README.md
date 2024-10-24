@@ -32,19 +32,6 @@ cd
 
 ls-a
 
-cd.aws
+````cd.aws
 
 ````cat creadentials
-
-
-
-
-
-
-
-
-
-
-
-
-
