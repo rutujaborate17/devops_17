@@ -32,13 +32,17 @@ terraform --version
 aws configure --rutuja
 ````
 ### To read creadentials
-
+````
 cd
 ````
+````
 ls-a
+````
 
 ````
 cd.aws
+````
 
 ````
 cat creadentials
+````
