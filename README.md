@@ -47,15 +47,3 @@ cd.aws
 cat creadentials
 ````
 
-
-
-- th 
-  
-
-
-
-
-
-
-
-
