@@ -1,32 +1,18 @@
 variable "vpc_cidr_block" {
-  type = string
-  description = "Use this VPC CIDR block"
+    type =string
+  
 }
 
 variable "subnet_cidr_block" {
-  type = string
-  description = "Subnet CIDR block for public subnet"
-}
-
-variable "public_ip" {
-    type = bool
-    description = "Assign Public ip"
+    type = string
+  
 }
 
 variable "az" {
-  type = list(string)
-  description = "Availability zones"
+    type = list(string)
 }
 
 variable "port_no" {
-  type = list(number)
-  description = "List of ports for security group"
+    type = list(number)
+  
 }
-
-
-
-variable "tags" {
-  type = map(string)
-  description = "Tags to be applied to all resources"
-}
-
