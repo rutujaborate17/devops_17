@@ -1,4 +1,4 @@
-## $$ {\color{blue} \textbf {Git Notes}}$$
+# $${\color{blue}\textbf {Git Notes}}$$
 Que. Differnence between CVCS and DVCS
 Git Working
 image
