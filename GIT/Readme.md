@@ -1,12 +1,11 @@
  # $${\color{blue}\textbf {Git Notes}}$$
-Que. Differnence between CVCS and DVCS
-Git Working
-image
-
-Git Basic Commands
-To initialize empty git repository
+## Que. Differnence between CVCS and DVCS
+## Git Basic Commands
+- To initialize empty git repository
+````
 git init
-Congfigure Username and EmailID
+````
+## Congfigure Username and EmailID
 ````
 git config --global user.email "testemail@gmail.com"
 git config --global user.name "abhi"
