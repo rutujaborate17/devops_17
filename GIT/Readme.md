@@ -61,6 +61,7 @@ git clone https://github.com/abhipraydhoble/gitdayone.git
 ````
 git clone git@github.com:abhipraydhoble/gitdayone.git
 ````
+![image](https://github.com/user-attachments/assets/49954fcd-e9c0-4dc2-b25c-70b19062cac8)
 
 ## check current branch
 ````
