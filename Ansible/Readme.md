@@ -10,7 +10,6 @@ sudo yum install ansible
 ansible --version
 ````
 ### create key-pair using ssh-keygen command
-
 ### copy public-key from master to authorized_keys file in node .ssh dir
 ## set up inventory file
 ````
@@ -63,8 +62,7 @@ sudo apt install ansible
 ````
 ansible --version
 ````
-````
-## set up inventory file
+## Set up inventory file
 ````
 sudo nano /etc/ansible/hosts
 private-ip of instance
@@ -102,7 +100,7 @@ ansible all -m ping
      state: started
      enabled: true
 ````
- ## run playbook
+## run playbook
 ````
 ansible-playbook playbook.yaml
 ````
