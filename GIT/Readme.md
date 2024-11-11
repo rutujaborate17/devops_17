@@ -1,5 +1,5 @@
  # $${\color{blue}\textbf {Git Notes}}$$
-## Que. Differnence between CVCS and DVCS
+#### Que. Differnence between CVCS and DVCS
 ## Git Basic Commands
 - To initialize empty git repository
 ````
