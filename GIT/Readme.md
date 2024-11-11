@@ -1,4 +1,4 @@
-# $${\color{blue}\textbf {Git Notes}}$$
+ # $${\color{blue}\textbf {Git Notes}}$$
 Que. Differnence between CVCS and DVCS
 Git Working
 image
@@ -36,16 +36,16 @@ git log
 ````
 git remote add origin https://github.com/abhipraydhoble/Devops-B-fourtyone.git
 ````
--Verify
+- Verify
 ````
 git remote -v
 ````
--Note: Make sure to generate github token before pushing to remote
--go to github profile ->settings->developer setting->personal access token-> token classic->generate new
+- Note: Make sure to generate github token before pushing to remote
+- go to github profile ->settings->developer setting->personal access token-> token classic->generate new
 imag
 
--copy token to somewhere for future use
--Push to Remote repository
+- copy token to somewhere for future use
+- Push to Remote repository
 ````
 git push origin master
 ````
