@@ -1,1 +1,1 @@
-#Ansible
+# $${\color{red}\textbf {Ansible}}$$
