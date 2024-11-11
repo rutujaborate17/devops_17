@@ -1,5 +1,5 @@
 # $${\color{red}\textbf {Ansible}}$$
-## $${\color{red}\textbf {Installation Steps For Amazon Linux:}$$
+## $${\color{red}\textbf {Installation Steps For Amazon Linux:}}$$
 ````
 sudo yum update
 ````
