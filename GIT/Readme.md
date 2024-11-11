@@ -56,13 +56,11 @@ git push origin master
 ````
 git clone https://github.com/abhipraydhoble/gitdayone.git
 ````
-
-
+![image](https://github.com/user-attachments/assets/8c7f4ca3-c74c-4f02-aea6-83d6189cca03)
 ## 2. SSH
 ````
 git clone git@github.com:abhipraydhoble/gitdayone.git
 ````
-
 
 ## check current branch
 ````
